@@ -7,6 +7,8 @@ For this project, the goal is to design various tables to hold the data from the
 ## Data Modeling
 Inspect the CSV files, and then sketch an Entity Relationship Diagram of the tables. To create the sketch, QuickDBDLinks was used.
 
+!['Figure1'](https://github.com/AADHIP09/Sql_challenge/blob/main/ERD.png)
+
 ## Data Engineering
   > Using the provided information, table schema was created for each of the six CSV files.
 
